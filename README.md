@@ -42,5 +42,4 @@ Wifi-Cracker.py it Saves Time and Effort
 
 3) cd Wifi-Cracker/
 
-
 4) sudo python3 wifi-cracker.py

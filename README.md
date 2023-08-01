@@ -36,3 +36,4 @@ Wifi-Cracker.py it Saves Time and Effort
 
 #Installation
 
+1) sudo apt-get update && apt-get install git

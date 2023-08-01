@@ -41,3 +41,5 @@ Wifi-Cracker.py it Saves Time and Effort
 2) sudo git clone https://github.com/TermuxHackz/wifi-cracker.git
 
 3) cd Wifi-Cracker/
+
+4) sudo python3 wifi-cracker.py

@@ -25,3 +25,5 @@ Wifi-Cracker.py it Saves Time and Effort
 6)Install Wireless tools   
 
 7)WPS Networks attacks 
+
+8)Scan for WPS Networks

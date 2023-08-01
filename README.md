@@ -22,5 +22,4 @@ Wifi-Cracker.py it Saves Time and Effort
 
 5)Create wordlist
 
-
 6)Install Wireless tools   

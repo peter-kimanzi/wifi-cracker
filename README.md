@@ -20,3 +20,7 @@ Wifi-Cracker.py it Saves Time and Effort
 
 4)Getting Handshake
 
+5)Create wordlist
+
+
+6)Install Wireless tools   

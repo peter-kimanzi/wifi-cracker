@@ -37,3 +37,5 @@ Wifi-Cracker.py it Saves Time and Effort
 #Installation
 
 1) sudo apt-get update && apt-get install git
+
+2) sudo git clone https://github.com/TermuxHackz/wifi-cracker.git

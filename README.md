@@ -16,3 +16,4 @@ Wifi-Cracker.py it Saves Time and Effort
 
 2)Stop monitor mode
 
+3)Scan Networks   

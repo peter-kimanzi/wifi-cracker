@@ -1,6 +1,6 @@
 # wifi-cracker
 
-Wi-Fi cracker
+Wi-Fi cracker.
 
 # wifi-cracker
 
